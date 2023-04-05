@@ -10,8 +10,7 @@ N/A
 
 ## Usage
 
-The goal of this webpage is to show what Horiseon provides for other companies. If you open the Chrome DevTools by pressing Command+Option+I (MacOS) or Control+Shift+I (Windows), a console panel should open either below or to the side of the webpage in the browser. If you click the first button on the top left of DevTools (arrow with a box), you can hover over elements on the page to inspect it. You can see that the webpage has great contrast accessibility that helps with assistive technologies, and also helps with Google searches.
-
+The goal of this webpage is to show what Horiseon provides for other companies. If you open the Chrome DevTools by pressing Command+Option+I (MacOS) or Control+Shift+I (Windows), a console panel should open either below or to the side of the webpage in the browser. If you click the first button on the top left of DevTools (arrow with a box), you can hover over elements on the page to inspect it. You can see that the webpage has great contrast accessibility, uses semantic HTML elements, which helps with assistive technologies.
 ## Credits
 
 Contributors :
