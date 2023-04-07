@@ -3,23 +3,23 @@
   padding: 0;
   margin: 0;
 }
-
+/* This is associated with the id selector so we included a "#" and will change the background color */
 #body {
   background-color: #d9dcd6;
 }
-
+/* This is a class selector so just a period is needed and will apply the changes ot the header section */
 .header {
   padding: 20px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   background-color: #2a607c;
   color: #ffffff;
 }
-
+/* This will apply to the "Hori" in the header name */
 .header h1 {
   display: inline-block;
   font-size: 48px;
 }
-
+/* This will change the color of "seo" in the Horiseon header */
 .header h1 #seo {
   color: #d9dcd6;
 }
@@ -45,7 +45,7 @@ a {
   color: #ffffff;
   text-decoration: none;
 }
-
+/* This will apply 16px to all font with <p> */
 p {
   font-size: 16px;
 }
@@ -58,12 +58,12 @@ p {
   background-size: cover;
   background-position: center;
 }
-
+/* This will float to the left for "Search Engine Optimization" photo */
 .float-left {
   float: left;
   margin-right: 25px;
 }
-
+/* This will float right for the Online Reputation Management photo */
 .float-right {
   float: right;
   margin-left: 25px;
@@ -85,7 +85,7 @@ p {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   background-color: #0072bb;
 }
-
+/* Since these are separated by commas - all changes effects each selector */
 .benefit-lead, 
 .benefit-brand, 
 .benefit-cost {
@@ -131,7 +131,7 @@ p {
   margin-bottom: 20px;
   font-size: 36px;
 }
-
+/* This will be unseen on the webpage since display is set to none */
 .footer {
   padding: 30px;
   clear: both;
